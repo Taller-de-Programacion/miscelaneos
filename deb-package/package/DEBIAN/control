@@ -1,0 +1,11 @@
+Package: test-client
+Version: 0.0.1
+Section: devel
+Priority: optional
+Architecture: amd64
+Depends: libc6(>=2.11), libgcc1(>=1:7)
+Maintainer: Matías Lafroce <tallerdeprogramacion+test-client@googlegroups.com>
+Description: Simple Client
+ Cliente de pruebas para Taller de programación 1
+ Viene con icono y configuración para el menú
+ Le falta agregar una dependencia ¿Cuál es?

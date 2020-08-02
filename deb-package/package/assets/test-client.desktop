@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Simple QT client
+Comment=Cliente de pruebas en Qt5
+Exec=test-client
+Icon=test-client
+Categories=Development;Engineering;Electronics;
+Keywords=embedded electronics;electronics;avr;microcontroller;
